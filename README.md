@@ -81,6 +81,8 @@ The CubeSat is a small satellite designed for space missions that typically oper
 # Demonstration 
 ![cubsat](https://github.com/user-attachments/assets/5af2ff7c-d40e-4b03-a735-59d7ed6a187b)
 ![reading](https://github.com/user-attachments/assets/0e60b8c0-ffc2-4c91-898a-9c0d48ee8047)
+# Linkedin
+https://www.linkedin.com/posts/amar-gangadhar-6b25a5267_cubesat-spacetech-satellite-activity-7234093794793533440-_h4-?utm_source=share&utm_medium=member_desktop
 # Summary
 The CubeSat system operates by utilizing a suite of sensors to gather data on various environmental parameters in space. This data is processed by the Arduino Mega 2560 Pro and transmitted via the NRF24L01 module. The collected information helps in monitoring space conditions, aiding scientific research, and ensuring the proper functioning of the satellite.
 
